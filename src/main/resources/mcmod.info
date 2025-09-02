@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nbtloader",
+  "name": "NBT Loader Mod",
+  "description": "A mod to load NBT files and generate items",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/Qxyz17/NBTLoader/",
+  "updateUrl": "https://github.com/Qxyz17/NBTLoader/actions",
+  "authorList": ["Qxyz17"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
